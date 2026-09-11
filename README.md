@@ -1,0 +1,1 @@
+# operator_tidak_identik
